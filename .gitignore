@@ -11,3 +11,4 @@ data/processed/*
 models/*.pkl
 models/*.joblib
 .env
+data/*.db
